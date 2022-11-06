@@ -1,0 +1,15 @@
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab2_21\Lab2_21\obj\Debug\net6.0\Lab2_21.csproj.AssemblyReference.cache
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab2_21\Lab2_21\obj\Debug\net6.0\Lab2_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab2_21\Lab2_21\obj\Debug\net6.0\Lab2_21.AssemblyInfoInputs.cache
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab2_21\Lab2_21\obj\Debug\net6.0\Lab2_21.AssemblyInfo.cs
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab2_21\Lab2_21\obj\Debug\net6.0\Lab2_21.csproj.CoreCompileInputs.cache
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab2_21\Lab2_21\bin\Debug\net6.0\Lab2_21.exe
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab2_21\Lab2_21\bin\Debug\net6.0\Lab2_21.deps.json
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab2_21\Lab2_21\bin\Debug\net6.0\Lab2_21.runtimeconfig.json
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab2_21\Lab2_21\bin\Debug\net6.0\Lab2_21.dll
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab2_21\Lab2_21\bin\Debug\net6.0\Lab2_21.pdb
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab2_21\Lab2_21\obj\Debug\net6.0\Lab2_21.dll
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab2_21\Lab2_21\obj\Debug\net6.0\refint\Lab2_21.dll
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab2_21\Lab2_21\obj\Debug\net6.0\Lab2_21.pdb
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab2_21\Lab2_21\obj\Debug\net6.0\Lab2_21.genruntimeconfig.cache
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab2_21\Lab2_21\obj\Debug\net6.0\ref\Lab2_21.dll
