@@ -1,0 +1,8 @@
+D:\University\4course\CrossPlatform\lab4_35\lab4_35\lab4_35\bin\Debug\net6.0\publish\lab4_35.exe
+D:\University\4course\CrossPlatform\lab4_35\lab4_35\lab4_35\bin\Debug\net6.0\publish\lab4_35.dll
+D:\University\4course\CrossPlatform\lab4_35\lab4_35\lab4_35\bin\Debug\net6.0\publish\lab4_35.runtimeconfig.json
+D:\University\4course\CrossPlatform\lab4_35\lab4_35\lab4_35\bin\Debug\net6.0\publish\lab4_35.pdb
+D:\University\4course\CrossPlatform\lab4_35\lab4_35\lab4_35\bin\Debug\net6.0\publish\McMaster.Extensions.CommandLineUtils.dll
+D:\University\4course\CrossPlatform\lab4_35\lab4_35\lab4_35\bin\Debug\net6.0\publish\LabsLibrary.dll
+D:\University\4course\CrossPlatform\lab4_35\lab4_35\lab4_35\bin\Debug\net6.0\publish\LabsLibrary.pdb
+D:\University\4course\CrossPlatform\lab4_35\lab4_35\lab4_35\bin\Debug\net6.0\publish\lab4_35.deps.json
